@@ -1,0 +1,16 @@
+#background{
+    background-image: url("https://1.bp.blogspot.com/-GQNGCPZF5Bk/WfaAoo9G-tI/AAAAAAAH15Q/boAjyFhHKnY_qYQAskFsNxoLZgkwAbowwCLcBGAs/w1200-h630-p-k-no-nu/brave-party-free-printable-kit-001.jpg");
+    background-size: cover;
+    text-align: right;
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgb(0, 255, 242);
+ margin-top: 70px;
+}
+#drawing_area{
+    border-width:10px;
+    background-color: lightpink; 
+    border-style:groove;
+    margin-left: 691px;
+}
